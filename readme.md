@@ -1,7 +1,7 @@
 # kgchess
 
 ## About
-kgchess is an implementation of chess in a form of a small library. It manages game state and computes possible moves. It can be used to embed chess in your project or to write a chess ai. See ```example``` directory for a simple game client where you play agains a rudimentary ai.
+kgchess is an implementation of chess in a form of a small C library. It manages game state and computes possible moves. It can be used to embed chess in your project or to write a chess ai. See ```example``` directory for a simple game client where you play against a rudimentary ai.
 
 ## My other projects
 * [parson](https://github.com/kgabis/parson) - JSON library
